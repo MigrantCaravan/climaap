@@ -1,3 +1,15 @@
+# ClimApp
+
+## Description
+
+A simple weather app built with React. This web page displays weather information by city. Just type the name of the city and press enter
+
+## APIs
+
+Weather data is retrieved from http://openweathermap.org/
+
+![](public/DEMO.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
